@@ -22,10 +22,6 @@ JavaScript
 
 🎮 Como Usar
 
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
-
 Acesse a pasta do projeto:
 
 cd sorteio-amigo-secreto
